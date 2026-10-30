@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kvdpxne/kvdpxne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Freelance software engineer**
 
-Here are some ideas to get you started:
+reliable products · APIs · automation · open-source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://lukaszpietrzak.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/kvdpxne) &nbsp;·&nbsp; [X](https://x.com/kvdpxne)
+
+</div>
+
+---
+
+I build software that’s easy to reason about: clear interfaces, predictable behavior, and code that stays maintainable.
+
+Most of my work revolves around product engineering, APIs and integrations, automation, and cloud-native delivery. I also maintain and contribute to open-source tools.
+
+If you’d like to work together — contracts, technical collaborations, or open-source — feel free to reach out. 🤝
